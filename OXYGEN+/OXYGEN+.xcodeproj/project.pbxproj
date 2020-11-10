@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4212EE30255A07BD009BB658 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4212EE2F255A07BD009BB658 /* RoundButton.swift */; };
 		424E06C9254A4AD400C6BBF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 424E06C8254A4AD400C6BBF8 /* Assets.xcassets */; };
 		427D0D80252ECCB200C06705 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427D0D7F252ECCB200C06705 /* AppDelegate.swift */; };
 		427D0D82252ECCB200C06705 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 427D0D81252ECCB200C06705 /* SceneDelegate.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4212EE2F255A07BD009BB658 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		424E06C8254A4AD400C6BBF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../.Trash/Assets.xcassets; sourceTree = "<group>"; };
 		427D0D7C252ECCB200C06705 /* OXYGEN+.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OXYGEN+.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		427D0D7F252ECCB200C06705 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				427D0D85252ECCB200C06705 /* Main.storyboard */,
 				427D0D8A252ECCB300C06705 /* LaunchScreen.storyboard */,
 				427D0D8D252ECCB300C06705 /* Info.plist */,
+				4212EE2F255A07BD009BB658 /* RoundButton.swift */,
 			);
 			path = "OXYGEN+";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4212EE30255A07BD009BB658 /* RoundButton.swift in Sources */,
 				427D0D84252ECCB200C06705 /* ViewController.swift in Sources */,
 				427D0D80252ECCB200C06705 /* AppDelegate.swift in Sources */,
 				427D0D82252ECCB200C06705 /* SceneDelegate.swift in Sources */,
